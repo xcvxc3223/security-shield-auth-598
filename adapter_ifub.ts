@@ -1,0 +1,1 @@
+const service_ifub = <T>(args: T): T => { return args; };
